@@ -1,0 +1,7 @@
+1	sweater	mac ao nay thi am ap lam luon!
+2	T-shirt	mac ao nay nhin dep trai xinh gai luon
+3	jacket	mac ao nay thi khong can ny giua mua dong luon
+4	boxer	quan nay he chien
+5	jean	quan nay sieu dep, ton dang ton da
+6	pajama	quan nay de mac di ngu ne
+7	skirt	nhung chiec vay cho nhung co gai banh beo

@@ -1,0 +1,70 @@
+CT-striped-XXL	Cotton T-shirt	XXL	striped	Straight-cut T-shirt in soft cotton jersey with ribbed crew neck and gently dropped shoulders	2	5.99	12981	8
+MS-black-4	Mini Skirt	4	black	Mini skirt in woven fabric. Regular waist and concealed zipper at back. Lined	7	25.99	13862	10
+MS-black-6	Mini Skirt	6	black	Mini skirt in woven fabric. Regular waist and concealed zipper at back. Lined	7	25.99	11400	10
+GRD-red-M	Glittery Rib-knit Dress	M	red	Fitted, calf-length dress in a rib knit made from a cotton and cashmere blend with glittery threads. Round neckline, gently dropped shoulders, and long sleeves. Gently flared hem	7	139.99	7478	1
+FPP-plaid-2XL	Flannel Pajama Pants	2XL	plaid	Pajama pants in soft cotton flannel. Elasticized drawstring waistband, mock fly, side pockets, and tapered legs	6	21.99	8042	8
+MS-black-8	Mini Skirt	8	black	Mini skirt in woven fabric. Regular waist and concealed zipper at back. Lined	7	25.99	13441	10
+MS-black-0	Mini Skirt	0	black	Mini skirt in woven fabric. Regular waist and concealed zipper at back. Lined	7	25.99	5531	10
+FPP-plaid-3XL	Flannel Pajama Pants	3XL	plaid	Pajama pants in soft cotton flannel. Elasticized drawstring waistband, mock fly, side pockets, and tapered legs	6	21.99	14486	8
+WLJ-black-5	Wide Low Jeans	5	Black	Loose-fit, 5-pocket jeans in thick cotton denim. Low waist, button fly, and straight, wide legs	5	49.99	12480	3
+FJS-black-XXS	Flared Jersey Skirt	XXS	black	Short, flared skirt in soft jersey made from a viscose blend. High waist, concealed, elasticized waistband, and slit at sides of hem	7	18.99	6860	0
+FJS-black-XS	Flared Jersey Skirt	XS	black	Short, flared skirt in soft jersey made from a viscose blend. High waist, concealed, elasticized waistband, and slit at sides of hem	7	18.99	10048	0
+KC-cream-L	Knitted cardigan	L	cream	Cardigan in a soft, textured knit with a round neckline, buttons down the front and fake welt pockets. Long sleeves and ribbing at the cuffs and hem	3	64.99	4241	4
+BS-red-S	Boxy Sweater	S	red	Relaxed-fit, boxy sweater in soft jersey. Wide neckline, dropped shoulders, and long, wide sleeves	1	19.99	11213	0
+GRD-black-S	Glittery Rib-knit Dress	S	black	Fitted, calf-length dress in a rib knit made from a cotton and cashmere blend with glittery threads. Round neckline, gently dropped shoulders, and long sleeves. Gently flared hem	7	125.99	11426	7
+DBJ-pink-free	Double-breasted Jacket	Free	pink	Straight-cut, relaxed-fit, double-breasted jacket in woven, viscose-blend fabric. Narrow, notched lapels, buttons at front, and welt front pockets. Lined	3	34.99	8886	0
+GRD-black-XS	Glittery Rib-knit Dress	XS	black	Fitted, calf-length dress in a rib knit made from a cotton and cashmere blend with glittery threads. Round neckline, gently dropped shoulders, and long sleeves. Gently flared hem	7	125.99	9031	7
+WLJ-blue-6	Wide Low Jeans	6	Denim blue	Loose-fit, 5-pocket jeans in thick cotton denim. Low waist, button fly, and straight, wide legs	5	49.99	13495	3
+FJS-black-S	Flared Jersey Skirt	S	black	Short, flared skirt in soft jersey made from a viscose blend. High waist, concealed, elasticized waistband, and slit at sides of hem	7	15.99	4300	0
+MS-black-2	Mini Skirt	2	black	Mini skirt in woven fabric. Regular waist and concealed zipper at back. Lined	7	25.99	6241	10
+DBJ-orange-free	Double-breasted Jacket	Free	orange	Straight-cut, relaxed-fit, double-breasted jacket in woven, viscose-blend fabric. Narrow, notched lapels, buttons at front, and welt front pockets. Lined	3	34.99	10305	0
+RJB-white-L	Ribbed Jersey Bodysuit	L	white	Bodysuit in soft, ribbed jersey. Sweetheart neckline, gathered detail at center of bust for a gently draped effect, and long sleeves. Concealed snap fasteners at gusset	1	14.99	17283	0
+FJS-white-XS	Flared Jersey Skirt	XS	white	Short, flared skirt in soft jersey made from a viscose blend. High waist, concealed, elasticized waistband, and slit at sides of hem	7	18.99	8912	0
+FJS-white-L	Flared Jersey Skirt	L	white	Short, flared skirt in soft jersey made from a viscose blend. High waist, concealed, elasticized waistband, and slit at sides of hem	7	18.99	17821	0
+GRD-red-S	Glittery Rib-knit Dress	S	red	Fitted, calf-length dress in a rib knit made from a cotton and cashmere blend with glittery threads. Round neckline, gently dropped shoulders, and long sleeves. Gently flared hem	7	139.99	1900	1
+WLJ-black-4	Wide Low Jeans	4	Black	Loose-fit, 5-pocket jeans in thick cotton denim. Low waist, button fly, and straight, wide legs	5	49.99	14270	3
+KC-cream-S	Knitted cardigan	S	cream	Cardigan in a soft, textured knit with a round neckline, buttons down the front and fake welt pockets. Long sleeves and ribbing at the cuffs and hem	3	64.99	6547	4
+CT-striped-XS	Cotton T-shirt	XS	striped	Straight-cut T-shirt in soft cotton jersey with ribbed crew neck and gently dropped shoulders	2	5.99	12459	8
+CBD-black-XS	Cashmere-blend Bodycon Dress	XS	black	Fitted, calf-length dress in a soft rib knit with cashmere content. V-neck front and back, long sleeves, and a straight hem	7	149.00	3492	0
+FPP-plaid-XL	Flannel Pajama Pants	XL	plaid	Pajama pants in soft cotton flannel. Elasticized drawstring waistband, mock fly, side pockets, and tapered legs	6	21.99	15831	8
+KC-white-M	Knitted cardigan	M	white	Cardigan in a soft, textured knit with a round neckline, buttons down the front and fake welt pockets. Long sleeves and ribbing at the cuffs and hem	3	64.99	12703	0
+RJB-black-L	Ribbed Jersey Bodysuit	L	black	Bodysuit in soft, ribbed jersey. Sweetheart neckline, gathered detail at center of bust for a gently draped effect, and long sleeves. Concealed snap fasteners at gusset	1	14.99	11944	0
+FPP-plaid-XXS	Flannel Pajama Pants	XXS	plaid	Pajama pants in soft cotton flannel. Elasticized drawstring waistband, mock fly, side pockets, and tapered legs	6	21.99	11429	8
+CT-striped-M	Cotton T-shirt	M	striped	Straight-cut T-shirt in soft cotton jersey with ribbed crew neck and gently dropped shoulders	2	5.99	7517	8
+RJB-black-S	Ribbed Jersey Bodysuit	S	black	Bodysuit in soft, ribbed jersey. Sweetheart neckline, gathered detail at center of bust for a gently draped effect, and long sleeves. Concealed snap fasteners at gusset	1	14.99	5034	0
+BS-green-XS	Boxy Sweater	XS	green	Relaxed-fit, boxy sweater in soft jersey. Wide neckline, dropped shoulders, and long, wide sleeves	1	19.99	12045	0
+FPP-plaid-S	Flannel Pajama Pants	S	plaid	Pajama pants in soft cotton flannel. Elasticized drawstring waistband, mock fly, side pockets, and tapered legs	6	21.99	7428	8
+WLJ-blue-5	Wide Low Jeans	5	Denim blue	Loose-fit, 5-pocket jeans in thick cotton denim. Low waist, button fly, and straight, wide legs	5	49.99	12396	3
+BS-green-L	Boxy Sweater	L	green	Relaxed-fit, boxy sweater in soft jersey. Wide neckline, dropped shoulders, and long, wide sleeves	1	19.99	18950	0
+DBJ-yellow-free	Double-breasted Jacket	Free	yellow	Straight-cut, relaxed-fit, double-breasted jacket in woven, viscose-blend fabric. Narrow, notched lapels, buttons at front, and welt front pockets. Lined	3	34.99	6718	0
+FPP-plaid-M	Flannel Pajama Pants	M	plaid	Pajama pants in soft cotton flannel. Elasticized drawstring waistband, mock fly, side pockets, and tapered legs	6	21.99	8860	8
+GRD-black-L	Glittery Rib-knit Dress	L	black	Fitted, calf-length dress in a rib knit made from a cotton and cashmere blend with glittery threads. Round neckline, gently dropped shoulders, and long sleeves. Gently flared hem	7	125.99	14526	7
+KC-white-L	Knitted cardigan	L	white	Cardigan in a soft, textured knit with a round neckline, buttons down the front and fake welt pockets. Long sleeves and ribbing at the cuffs and hem	3	64.99	10656	0
+CBD-black-M	Cashmere-blend Bodycon Dress	M	black	Fitted, calf-length dress in a soft rib knit with cashmere content. V-neck front and back, long sleeves, and a straight hem	7	149.00	12116	0
+BS-yellow-M	Boxy Sweater	M	yellow	Relaxed-fit, boxy sweater in soft jersey. Wide neckline, dropped shoulders, and long, wide sleeves	1	19.99	16650	0
+BS-green-XL	Boxy Sweater	XL	green	Relaxed-fit, boxy sweater in soft jersey. Wide neckline, dropped shoulders, and long, wide sleeves	1	19.99	8523	0
+BS-green-S	Boxy Sweater	S	green	Relaxed-fit, boxy sweater in soft jersey. Wide neckline, dropped shoulders, and long, wide sleeves	1	19.99	13454	0
+CT-striped-XL	Cotton T-shirt	XL	striped	Straight-cut T-shirt in soft cotton jersey with ribbed crew neck and gently dropped shoulders	2	5.99	7085	8
+BS-yellow-L	Boxy Sweater	L	yellow	Relaxed-fit, boxy sweater in soft jersey. Wide neckline, dropped shoulders, and long, wide sleeves	1	19.99	12856	0
+CBD-black-L	Cashmere-blend Bodycon Dress	L	black	Fitted, calf-length dress in a soft rib knit with cashmere content. V-neck front and back, long sleeves, and a straight hem	7	149.00	13805	0
+RJB-white-S	Ribbed Jersey Bodysuit	S	white	Bodysuit in soft, ribbed jersey. Sweetheart neckline, gathered detail at center of bust for a gently draped effect, and long sleeves. Concealed snap fasteners at gusset	1	14.99	6324	0
+BS-green-M	Boxy Sweater	M	green	Relaxed-fit, boxy sweater in soft jersey. Wide neckline, dropped shoulders, and long, wide sleeves	1	19.99	13518	0
+FJS-white-M	Flared Jersey Skirt	M	white	Short, flared skirt in soft jersey made from a viscose blend. High waist, concealed, elasticized waistband, and slit at sides of hem	7	18.99	4386	0
+FPP-plaid-XS	Flannel Pajama Pants	XS	plaid	Pajama pants in soft cotton flannel. Elasticized drawstring waistband, mock fly, side pockets, and tapered legs	6	21.99	15229	8
+RJB-white-M	Ribbed Jersey Bodysuit	M	white	Bodysuit in soft, ribbed jersey. Sweetheart neckline, gathered detail at center of bust for a gently draped effect, and long sleeves. Concealed snap fasteners at gusset	1	14.99	14216	0
+CBD-black-S	Cashmere-blend Bodycon Dress	S	black	Fitted, calf-length dress in a soft rib knit with cashmere content. V-neck front and back, long sleeves, and a straight hem	7	149.00	12671	0
+WLJ-blue-4	Wide Low Jeans	4	Denim blue	Loose-fit, 5-pocket jeans in thick cotton denim. Low waist, button fly, and straight, wide legs	5	49.99	8857	3
+CT-striped-S	Cotton T-shirt	S	striped	Straight-cut T-shirt in soft cotton jersey with ribbed crew neck and gently dropped shoulders	2	5.99	7777	8
+DBJ-white-free	Double-breasted Jacket	Free	white	Straight-cut, relaxed-fit, double-breasted jacket in woven, viscose-blend fabric. Narrow, notched lapels, buttons at front, and welt front pockets. Lined	3	34.99	8310	0
+GRD-black-M	Glittery Rib-knit Dress	M	black	Fitted, calf-length dress in a rib knit made from a cotton and cashmere blend with glittery threads. Round neckline, gently dropped shoulders, and long sleeves. Gently flared hem	7	125.99	9507	7
+FJS-white-XXS	Flared Jersey Skirt	XXS	white	Short, flared skirt in soft jersey made from a viscose blend. High waist, concealed, elasticized waistband, and slit at sides of hem	7	18.99	13903	0
+RJB-black-M	Ribbed Jersey Bodysuit	M	black	Bodysuit in soft, ribbed jersey. Sweetheart neckline, gathered detail at center of bust for a gently draped effect, and long sleeves. Concealed snap fasteners at gusset	1	14.99	5597	0
+KC-white-S	Knitted cardigan	S	white	Cardigan in a soft, textured knit with a round neckline, buttons down the front and fake welt pockets. Long sleeves and ribbing at the cuffs and hem	3	64.99	14598	0
+BS-red-XS	Boxy Sweater	XS	red	Relaxed-fit, boxy sweater in soft jersey. Wide neckline, dropped shoulders, and long, wide sleeves	1	19.99	11360	0
+FJS-black-M	Flared Jersey Skirt	S	black	Short, flared skirt in soft jersey made from a viscose blend. High waist, concealed, elasticized waistband, and slit at sides of hem	7	18.99	19022	0
+GRD-red-XS	Glittery Rib-knit Dress	XS	red	Fitted, calf-length dress in a rib knit made from a cotton and cashmere blend with glittery threads. Round neckline, gently dropped shoulders, and long sleeves. Gently flared hem	7	139.99	14593	1
+DBJ-black-free	Double-breasted Jacket	Free	black	Straight-cut, relaxed-fit, double-breasted jacket in woven, viscose-blend fabric. Narrow, notched lapels, buttons at front, and welt front pockets. Lined	3	34.99	11235	0
+CT-striped-L	Cotton T-shirt	L	striped	Straight-cut T-shirt in soft cotton jersey with ribbed crew neck and gently dropped shoulders	2	5.99	15428	8
+KC-cream-M	Knitted cardigan	M	cream	Cardigan in a soft, textured knit with a round neckline, buttons down the front and fake welt pockets. Long sleeves and ribbing at the cuffs and hem	3	64.99	6113	4
+GRD-red-L	Glittery Rib-knit Dress	L	red	Fitted, calf-length dress in a rib knit made from a cotton and cashmere blend with glittery threads. Round neckline, gently dropped shoulders, and long sleeves. Gently flared hem	7	139.99	10647	1
+FPP-plaid-L	Flannel Pajama Pants	L	plaid	Pajama pants in soft cotton flannel. Elasticized drawstring waistband, mock fly, side pockets, and tapered legs	6	21.99	8197	8

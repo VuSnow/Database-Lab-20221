@@ -1,0 +1,11 @@
+0	No discount	No discount	0	1999-01-01	\N
+1	Last summer	Special coupon	80	2022-10-31	\N
+3	New arrival	New arrival	10	2023-01-10	2023-01-13
+4	Special item		5	2022-10-08	2022-11-03
+2	Tet Holiday		20	2023-01-01	2023-01-31
+5	Black Friday		35	2023-01-13	2023-01-13
+6	1 year anniversary		45	2022-05-05	2022-05-05
+7	8/3	Only for women	70	2022-03-08	2022-03-08
+8	Boy's Day	Only for men	70	2022-04-06	2022-04-06
+9	20/11	Only for who works as teacher	50	2022-11-20	2022-11-20
+10	National Day		30	2022-09-02	2022-09-02

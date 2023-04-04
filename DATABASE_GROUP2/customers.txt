@@ -1,0 +1,500 @@
+1187481558	Rica	Bagguley	1994-11-16	Female	rbagguley0@nationalgeographic.com	194 Victoria Plaza	copper	0.00
+5211556971	Charlena	Fells	1994-04-21	Female	cfells1@webmd.com	1 Stang Terrace	copper	0.00
+1526983096	Linea	Walesby	1997-02-07	Female	lwalesby7@dagondesign.com	31636 Crownhardt Hill	copper	0.00
+3303153043	Laurella	Perrie	2000-04-02	Female	lperrie8@usgs.gov	6 Maple Wood Street	copper	0.00
+5363679811	Tedra	Sexstone	1996-02-10	Female	tsexstoneb@buzzfeed.com	37 Loomis Park	copper	0.00
+3132780691	Petr	Jeacock	2003-01-20	Male	pjeacockc@mapy.cz	4 Warner Trail	copper	0.00
+7733590777	Paolina	Orriss	1998-04-06	Female	porrisse@odnoklassniki.ru	95 Tony Hill	copper	0.00
+9976774294	Miller	Fyfield	1998-11-25	Male	mfyfieldi@techcrunch.com	0101 Mcbride Pass	copper	0.00
+3056185849	Marchall	Kelloch	1993-06-27	Male	mkellochl@instagram.com	386 Vermont Junction	copper	0.00
+3839127542	Sherilyn	Fidelli	2001-09-21	Female	sfidellin@yale.edu	87002 Swallow Parkway	copper	0.00
+6538783195	Drud	Lanyon	2003-10-03	Male	dlanyono@eventbrite.com	499 Buell Crossing	copper	0.00
+4058716451	Maryann	Easseby	2002-09-02	Female	meassebys@ucoz.com	1 Norway Maple Circle	copper	0.00
+5781936633	Valeria	Digges	2002-12-03	Female	vdiggest@vk.com	88704 Northview Center	copper	0.00
+6908881314	Byrle	Derx	2001-12-29	Male	bderxy@eepurl.com	19 Scott Lane	copper	0.00
+6554844457	Wilhelm	Divill	2000-07-19	Male	wdivill17@github.com	576 Brown Drive	copper	0.00
+3846628982	Sherm	Secrett	2002-03-03	Male	ssecrett19@oracle.com	091 Hazelcrest Hill	copper	0.00
+3313359673	Crista	Crispin	1999-05-27	Male	ccrispin1d@tinypic.com	1 Bartelt Center	copper	0.00
+2841050989	Merrick	Handling	1992-09-05	Male	mhandling1g@loc.gov	915 Redwing Trail	copper	0.00
+7773691184	Cameron	Challens	2002-10-07	Male	cchallens1h@diigo.com	4 Susan Alley	copper	0.00
+6178673386	Yardley	Dibling	1995-07-11	Male	ydibling1k@imgur.com	129 Farmco Hill	copper	0.00
+4836519961	Pennie	Lorincz	2002-01-13	Male	plorincz1o@sfgate.com	6541 Golden Leaf Place	copper	0.00
+3992112348	Uriah	Druitt	1993-10-26	Male	udruitt1p@phoca.cz	2345 Clyde Gallagher Trail	copper	0.00
+9501680571	Sibley	Wigfield	2000-02-14	Female	swigfield1q@example.com	1 International Hill	copper	0.00
+3087378155	Meta	Petford	1999-02-15	Female	mpetford1t@army.mil	8571 Bonner Junction	copper	0.00
+9333472449	Wallie	Wheater	1998-10-29	Male	wwheater1u@theglobeandmail.com	03956 Schmedeman Street	copper	0.00
+9516366316	Heall	Kwietek	1997-11-18	Male	hkwietek21@theatlantic.com	003 Sutherland Circle	copper	0.00
+1451901427	Quintus	Tireman	1998-09-24	Male	qtireman22@ucsd.edu	9993 Weeping Birch Terrace	copper	0.00
+3161904013	Quintus	Prosch	1992-05-26	Male	qprosch23@slate.com	7 Old Shore Pass	copper	0.00
+3514379594	Neala	Gwalter	1999-06-02	Female	ngwalter28@telegraph.co.uk	179 Talisman Alley	copper	0.00
+9058613657	Antonia	Halversen	1997-05-08	Female	ahalversen29@hexun.com	140 Cherokee Circle	copper	0.00
+3378692192	Malia	Artrick	2002-03-08	Female	martrick2a@google.it	6 Elka Way	copper	0.00
+6236648128	Grant	Walhedd	1993-11-27	Male	gwalhedd2g@imdb.com	9933 Johnson Pass	copper	0.00
+9437310894	Dorelle	Barbie	2003-12-05	Female	dbarbie2j@delicious.com	7427 Larry Trail	copper	0.00
+5941249089	Colby	Dobie	1997-04-05	Male	cdobie2l@cnn.com	64 Gale Circle	copper	0.00
+8309977747	Harwilll	Primak	1993-09-04	Male	hprimak2m@yellowpages.com	234 Donald Hill	copper	0.00
+4038738836	Diann	Mulderrig	1999-05-06	Female	dmulderrig2o@issuu.com	1 Memorial Way	copper	0.00
+3904024715	Tybie	Rickardsson	2004-08-18	Female	trickardsson2s@adobe.com	7742 Oriole Avenue	copper	0.00
+9339946871	Flory	Thackray	1999-03-21	Male	fthackray2v@studiopress.com	73 Truax Drive	copper	0.00
+4154867312	Juline	Covotti	1994-12-08	Female	jcovotti2x@google.com.au	62216 Pond Lane	copper	0.00
+1758071010	Jerald	MacTrustie	1995-05-03	Male	jmactrustie32@nytimes.com	86221 Roth Parkway	copper	0.00
+6781989613	Joya	Speerman	1995-07-03	Female	jspeerman35@time.com	7681 Evergreen Road	copper	0.00
+6953456638	Lorna	Manthroppe	1993-10-20	Female	lmanthroppe36@opera.com	2870 Wayridge Road	copper	0.00
+9451225333	Gwennie	Konrad	1997-03-11	Female	gkonrad38@ucoz.com	85 Mcguire Court	copper	0.00
+3155438587	Hurlee	Goakes	1999-09-04	Male	hgoakes3b@mit.edu	342 Carberry Junction	copper	0.00
+7434057818	Catrina	Haigh	1999-08-04	Female	chaigh3e@bandcamp.com	3 Saint Paul Avenue	copper	0.00
+9054261370	Louise	Spykins	2004-02-20	Female	lspykins3f@yahoo.co.jp	560 Longview Point	copper	0.00
+3338729678	Denys	Ordish	1993-12-14	Female	dordish3j@nature.com	591 Westridge Drive	copper	0.00
+2725342107	Morgen	Clemmens	1996-02-27	Female	mclemmens3k@npr.org	9104 Claremont Crossing	copper	0.00
+1857549188	Bendix	Olpin	2001-05-07	Male	bolpin3m@hud.gov	26807 Grover Avenue	copper	0.00
+4849236925	Constance	De Brett	2003-02-09	Female	cdebrett3n@amazonaws.com	65 Duke Street	copper	0.00
+4767730361	Sherilyn	Sancho	1993-04-29	Female	ssancho3o@google.it	5 Steensland Parkway	copper	0.00
+2296325612	Butch	Mont	1999-09-18	Male	bmont3z@pbs.org	4 Tomscot Point	copper	0.00
+8847775771	Kelcie	Templeman	2002-07-02	Female	ktempleman40@amazon.com	066 International Court	copper	0.00
+2231150284	Curt	Farrears	1994-01-20	Male	cfarrears43@wiley.com	1 Prairieview Street	copper	0.00
+6066651509	Elly	Wealthall	2002-08-25	Female	ewealthall45@webeden.co.uk	326 Tony Circle	copper	0.00
+6792094112	Pryce	Kemery	1995-07-03	Male	pkemery48@sitemeter.com	11 Packers Circle	copper	0.00
+4585805028	Anthony	Cater	1993-07-28	Male	acater49@chicagotribune.com	71668 Vahlen Lane	copper	0.00
+7752152942	Tiena	McDill	1994-05-31	Female	tmcdill4a@google.com.br	09 Eggendart Street	copper	0.00
+9548604811	Jess	Clough	2001-04-24	Male	jclough4b@wp.com	86 Kipling Park	copper	0.00
+4082326977	Olvan	Madrell	1993-02-18	Male	omadrell4f@admin.ch	7877 Crowley Parkway	copper	0.00
+2853039575	Jeanette	Kubiczek	2003-12-29	Female	jkubiczek4h@themeforest.net	9991 Ohio Alley	copper	0.00
+9422398688	Walton	Leetham	1998-07-21	Male	wleetham4l@i2i.jp	42388 Meadow Vale Terrace	copper	0.00
+7481812036	Claudie	Cosgrove	2002-06-20	Female	ccosgrove4o@plala.or.jp	20 Northridge Plaza	copper	0.00
+2954817808	Knox	Abramovitch	2004-12-24	Male	kabramovitch4p@1und1.de	78 Moulton Crossing	copper	0.00
+4249959292	Shanta	Kinnerk	1997-09-27	Female	skinnerk4q@skype.com	4446 Pawling Plaza	copper	0.00
+7087209779	Merv	Dawidman	1994-06-13	Male	mdawidman54@storify.com	18 Burrows Parkway	copper	0.00
+9585027850	Alberta	Faulconer	1998-09-21	Female	afaulconer58@patch.com	0 Summer Ridge Hill	copper	0.00
+7831546456	Derrik	Antal	1998-02-19	Male	dantal5a@hibu.com	86805 Grover Hill	copper	0.00
+5108333432	Laney	Dunnet	2004-06-04	Female	ldunnet5c@phpbb.com	044 Buhler Place	copper	0.00
+5739184644	Freda	Boorne	1993-01-03	Female	fboorne5d@cdbaby.com	76266 Milwaukee Alley	copper	0.00
+1221258055	Eduardo	Rickersy	1994-09-17	Male	erickersy5f@home.pl	13590 Bartelt Street	copper	0.00
+3217015774	Geri	Fairn	2002-04-02	Female	gfairn5k@studiopress.com	6 Pond Terrace	copper	0.00
+8703523697	Jessi	Drugan	1997-05-09	Female	jdrugan5l@nps.gov	9 Emmet Plaza	copper	0.00
+6953904829	Lilian	Harcarse	2001-05-06	Female	lharcarse5q@wix.com	802 Chinook Center	copper	0.00
+4211583823	Alair	Clampett	1993-02-04	Male	aclampett5r@canalblog.com	2 Darwin Terrace	copper	0.00
+2114129942	Allyce	Crutchley	2000-11-01	Female	acrutchley5v@admin.ch	89302 Anderson Center	copper	0.00
+3724186299	Ondrea	Yelden	2001-07-24	Female	oyelden5w@va.gov	136 Grim Center	copper	0.00
+8307617693	Rollin	Cornwall	1994-01-09	Male	rcornwall66@netvibes.com	59 Commercial Road	copper	0.00
+9285867558	Kynthia	Attwell	1998-11-22	Female	kattwell67@accuweather.com	8 Monument Circle	copper	0.00
+8284265229	Sibby	O'Leahy	1994-09-24	Female	soleahy68@booking.com	201 Rowland Center	copper	0.00
+2887560286	Amalie	Asson	2000-02-03	Female	aasson6d@squarespace.com	64747 Elmside Avenue	copper	0.00
+2716991601	Corly	Jurs	1992-03-24	Female	cjurs6h@elegantthemes.com	513 Emmet Court	copper	0.00
+8197377131	Lowe	Ramble	2000-10-07	Male	lramble6j@dot.gov	953 Iowa Lane	copper	0.00
+4963373080	Merralee	Mishaw	1997-03-27	Female	mmishaw6k@unesco.org	49899 Mosinee Parkway	copper	0.00
+3754894676	Jordan	Beadell	2003-06-19	Female	jbeadell6u@boston.com	10 Dottie Street	copper	0.00
+7613780064	Maurizio	Deelay	1995-08-02	Male	mdeelay6w@spotify.com	465 Drewry Court	copper	0.00
+6359193088	Ruggiero	Jiricka	2003-08-30	Male	rjiricka6y@dyndns.org	950 Harbort Lane	copper	0.00
+8338065237	Donetta	Baughn	2003-02-14	Female	dbaughn6z@devhub.com	584 Lakeland Way	copper	0.00
+2751295843	Smitty	Hallihan	1998-12-27	Male	shallihan72@netvibes.com	6971 Village Green Hill	copper	0.00
+8751149622	Viola	Riggs	1993-10-01	Female	vriggs7a@w3.org	1 Del Sol Road	copper	0.00
+6369947327	Jory	Blonden	1996-04-01	Male	jblonden7c@artisteer.com	6724 Pennsylvania Place	copper	0.00
+6124104569	Benn	Ormes	1995-08-30	Male	bormes7d@ameblo.jp	119 Sachtjen Crossing	copper	0.00
+9174639858	Nisse	Crawforth	1995-10-05	Female	ncrawforth7h@gizmodo.com	7 Valley Edge Terrace	copper	0.00
+3846512877	Adelheid	Zavittieri	2001-08-25	Female	azavittieri7i@hugedomains.com	31879 Elmside Court	copper	0.00
+4851343965	Jamil	Bravington	1996-01-12	Male	jbravington7t@hao123.com	16148 Dahle Court	copper	0.00
+6087936899	Joelle	Towers	1996-04-22	Female	jtowers7v@uol.com.br	9 Delladonna Way	copper	0.00
+8611931207	Galvin	Coweuppe	2002-08-15	Male	gcoweuppe7w@techcrunch.com	89305 Hovde Junction	copper	0.00
+1061960109	Wain	Aysik	1994-01-03	Male	waysik7y@opera.com	51282 Memorial Avenue	copper	0.00
+9808175317	Kaye	Casaccia	1996-10-14	Female	kcasaccia80@youtu.be	13702 Washington Place	copper	0.00
+6952161853	Hilly	Caldecot	1995-08-05	Male	hcaldecot85@wunderground.com	58602 Canary Alley	copper	0.00
+2971274051	Marrilee	Souttar	1992-05-14	Female	msouttar87@oakley.com	39396 Scofield Trail	copper	0.00
+3521998802	Nikki	Jahnke	2001-05-19	Female	njahnke89@msu.edu	914 Maryland Center	copper	0.00
+2949247245	Lauralee	Balmann	2000-08-12	Female	lbalmann8b@usatoday.com	705 Farwell Parkway	copper	0.00
+2935268759	Ravi	Sirr	1996-08-20	Male	rsirr8l@domainmarket.com	11545 Center Point	copper	0.00
+3753268525	Lynsey	Ghiron	1993-10-27	Female	lghiron8n@bbb.org	035 Bunting Crossing	copper	0.00
+4806134984	Rick	Castagnone	2002-06-01	Male	rcastagnone8q@shutterfly.com	32410 Rigney Trail	copper	0.00
+1869828352	Bebe	Sturgis	2003-06-06	Female	bsturgis8w@springer.com	99488 Summer Ridge Drive	copper	0.00
+9724895479	Chere	Bispham	1995-02-19	Female	cbispham8z@nba.com	33 Kennedy Road	copper	0.00
+9627706014	Seumas	Scotchmoor	1994-10-20	Male	sscotchmoor91@latimes.com	99 Farmco Parkway	copper	0.00
+8451475650	Felicio	Fernandes	1998-06-18	Male	ffernandes92@forbes.com	770 Schmedeman Trail	copper	0.00
+2982491757	Gwenora	Strowthers	1998-01-23	Female	gstrowthers93@list-manage.com	775 Hagan Court	copper	0.00
+2186381905	Frankie	Penk	1996-03-04	Male	fpenk98@tiny.cc	3993 Dayton Terrace	copper	0.00
+2034897179	Yankee	Mertgen	2002-03-23	Male	ymertgen99@cbsnews.com	730 Buell Parkway	copper	0.00
+7214550752	Veronique	Dunsford	1996-04-19	Female	vdunsford9c@google.es	41145 Calypso Trail	copper	0.00
+6653802257	Giles	Gaize	1992-06-17	Male	ggaize9d@lycos.com	70 Esch Court	copper	0.00
+2844552473	Moshe	Mumbray	1999-03-19	Male	mmumbray9g@census.gov	5025 Hanover Crossing	copper	0.00
+7134258420	Kev	Leggett	1998-07-30	Male	kleggett9i@typepad.com	43 International Way	copper	0.00
+4383328434	Berkeley	Loveland	1995-10-21	Male	bloveland9o@ehow.com	22 Shopko Place	copper	0.00
+5831112990	Nedi	Sammes	2000-10-08	Female	nsammes9r@imgur.com	78047 Lawn Drive	copper	0.00
+5452497980	Arlie	Bettenay	1995-09-15	Female	abettenay9w@blinklist.com	0203 Moulton Lane	copper	0.00
+3507990837	Aloise	Durnell	1996-11-03	Female	adurnell9z@pcworld.com	369 Corben Trail	copper	0.00
+2789432846	Kennan	Wais	2001-08-06	Male	kwaisa2@kickstarter.com	89 Mandrake Pass	copper	0.00
+9062023177	Giulio	Petegrew	2002-03-15	Male	gpetegrewa3@yahoo.co.jp	6 Corscot Circle	copper	0.00
+4871173341	Alethea	Spataro	1999-07-06	Female	aspataroa4@europa.eu	96249 Veith Alley	copper	0.00
+7528226376	Vance	Lecordier	1996-10-22	Male	vlecordiera5@technorati.com	88112 Ramsey Parkway	copper	0.00
+5504764527	Berri	Fridd	1995-05-16	Female	bfridda8@bing.com	35101 Bellgrove Parkway	copper	0.00
+2616907746	Freedman	Galier	2004-09-26	Male	fgaliera9@berkeley.edu	72938 Shopko Terrace	copper	0.00
+8252439532	Michail	Klauber	1996-07-09	Male	mklauberaa@shareasale.com	2 Glendale Hill	copper	0.00
+2191754949	Georgina	Gilderoy	1998-01-05	Female	ggilderoyab@jugem.jp	010 Harper Street	copper	0.00
+3283427061	Bette	Thurstan	1999-10-04	Female	bthurstanad@cdbaby.com	3113 Fallview Drive	copper	0.00
+5187235214	Westbrooke	Sproat	1992-01-09	Male	wsproataj@army.mil	6 Basil Circle	copper	0.00
+1008156415	Chucho	Thrush	2002-07-03	Male	cthrushan@amazon.co.jp	92 Basil Street	copper	0.00
+8086760249	Shea	Slimings	1999-05-21	Female	sslimingsap@rambler.ru	339 Park Meadow Lane	copper	0.00
+4804612655	Fred	Leavens	1992-05-20	Male	fleavensar@patch.com	5 John Wall Place	copper	0.00
+8524356251	Malorie	Mouse	2001-10-19	Female	mmouseaw@smugmug.com	80461 Algoma Parkway	copper	0.00
+5328672245	Sergeant	Devennie	1994-11-04	Male	sdevennieaz@geocities.com	6733 Northridge Avenue	copper	0.00
+7896537325	Sianna	Danter	1996-09-07	Female	sdanterb0@reuters.com	338 Upham Lane	copper	0.00
+8121217475	Foster	Blackmoor	1998-05-28	Male	fblackmoorb3@blogspot.com	81885 Caliangt Street	copper	0.00
+1467347829	Reggis	Ceeley	1997-07-17	Male	rceeleyb4@sciencedirect.com	95404 Hazelcrest Junction	copper	0.00
+4308291989	Filippa	Cordero	1993-10-11	Male	fcorderob7@google.it	78676 Anzinger Pass	copper	0.00
+7262148682	Sela	Walwood	2000-03-24	Female	swalwoodb8@instagram.com	56573 Granby Lane	copper	0.00
+8461452637	Alex	Posten	1998-02-15	Female	apostenba@parallels.com	9 Sloan Crossing	copper	0.00
+4002647712	Galvin	MacShirie	1998-07-02	Male	gmacshiriebb@sitemeter.com	6 Lillian Center	copper	0.00
+7786357947	Janelle	Haug	2003-09-16	Female	jhaugbe@pinterest.com	804 Upham Point	copper	0.00
+3561035505	Dru	Butler-Bowdon	2002-07-26	Female	dbutlerbowdonbf@ed.gov	3790 Mcbride Parkway	copper	0.00
+9202573967	Quent	Duffer	1999-01-13	Male	qdufferbl@usgs.gov	30 3rd Hill	copper	0.00
+6197655543	Gray	Filippozzi	1998-03-26	Female	gfilippozzibm@fastcompany.com	94 South Lane	copper	0.00
+5361989916	Thibaud	Nizard	2001-08-08	Male	tnizardbn@army.mil	5 Lien Parkway	copper	0.00
+8862310631	Parsifal	Pyson	1994-10-10	Male	ppysonbo@vinaora.com	0960 Portage Hill	copper	0.00
+1312072344	Rivi	Terbrug	1994-02-12	Female	rterbrugbp@php.net	5 Hauk Trail	copper	0.00
+9393224591	Nickie	Seamans	2002-07-15	Female	nseamansbw@wikimedia.org	85 Vernon Point	copper	0.00
+8834402848	Edgardo	Zavattero	1995-05-15	Male	ezavatterobz@cdc.gov	3 Anzinger Lane	copper	0.00
+4104590793	Roxi	Castano	1999-09-14	Female	rcastanoc1@rambler.ru	6 Lien Alley	copper	0.00
+5913325003	Kip	Strute	1994-05-03	Female	kstrutec2@slate.com	4 Grim Court	copper	0.00
+5353264882	Brander	Elcombe	2003-08-21	Male	belcombec4@smugmug.com	0203 Dayton Plaza	copper	0.00
+9648544369	Kaila	Syde	2004-12-12	Female	ksydec8@wp.com	65 Grim Plaza	copper	0.00
+7825697488	Adelheid	France	1995-10-04	Female	afranceca@amazon.com	741 Hooker Parkway	copper	0.00
+9937736094	Avrom	Ackers	2002-11-10	Male	aackerscb@posterous.com	283 Caliangt Junction	copper	0.00
+3417571164	Klemens	Wescott	1996-02-24	Male	kwescottcf@symantec.com	70647 6th Way	copper	0.00
+2538578439	Elvis	Linturn	1999-01-31	Male	elinturncg@oakley.com	7 Warrior Court	copper	0.00
+7583209636	Arte	Berni	1994-01-04	Male	abernich@youku.com	5603 Weeping Birch Hill	copper	0.00
+2217802457	Spencer	Nyles	1998-05-22	Male	snylesci@prlog.org	10987 Bobwhite Junction	copper	0.00
+7944550174	Celestia	Bridgwater	1994-06-29	Female	cbridgwatercj@marriott.com	4856 Pierstorff Avenue	copper	0.00
+4009802307	Mellisa	Filippucci	1998-02-14	Male	mfilippuccicm@admin.ch	59017 Scoville Terrace	copper	0.00
+4974238384	Hinda	O'Carran	1998-09-03	Female	hocarrancq@t-online.de	70 Sycamore Trail	copper	0.00
+2305339390	Persis	Hulks	1997-10-08	Female	phulksct@goo.ne.jp	79222 Johnson Street	copper	0.00
+6181005931	Aleece	Zannolli	2001-08-19	Female	azannollicv@nih.gov	0171 Towne Alley	copper	0.00
+7083346595	Guglielmo	Jumonet	1995-06-15	Male	gjumonetcw@boston.com	00 Service Park	copper	0.00
+7275388718	Rusty	Bisacre	1993-09-09	Male	rbisacrecz@nationalgeographic.com	572 Golden Leaf Street	copper	0.00
+5689340313	Gilberto	Spurden	1999-04-10	Male	gspurdend1@harvard.edu	400 Quincy Parkway	copper	0.00
+3234845699	Perla	De Angelo	2000-08-16	Female	pdeangelod3@goo.gl	7 Rigney Lane	copper	0.00
+6165185143	Jewell	Dibdale	2000-11-06	Female	jdibdaled6@artisteer.com	8 Moose Terrace	copper	0.00
+2334660597	Jeramey	Poutress	1995-06-30	Male	jpoutressd9@samsung.com	8595 Ridgeview Point	copper	0.00
+4317684328	Finley	Borrell	1992-07-30	Male	fborrelldb@elegantthemes.com	2127 Laurel Place	copper	0.00
+4916306239	Adina	Mewhirter	2001-02-06	Female	amewhirterdg@github.com	66 Marcy Terrace	copper	0.00
+1935093127	Fancy	Durdy	2004-04-11	Female	fdurdydh@symantec.com	91 Quincy Parkway	copper	0.00
+7924985224	Fernando	Candelin	1992-05-21	Male	fcandelindi@ucoz.com	34646 Shelley Road	copper	0.00
+3665780514	Edouard	Thornley	1994-09-13	Male	ethornleydm@aol.com	71 Fuller Alley	copper	0.00
+3609132876	Brinna	Bonavia	2002-03-03	Female	bbonaviads@e-recht24.de	047 Iowa Parkway	copper	0.00
+2533827292	Wyn	Vondrys	1996-10-15	Male	wvondrysdv@amazonaws.com	577 Dovetail Crossing	copper	0.00
+6427611190	Leola	Crathorne	1993-09-29	Female	lcrathorne8c@pen.io	191 Nevada Avenue	copper	7.20
+2829489174	Vince	Gosart	1993-11-22	Male	vgosart9f@google.pl	450 Jay Lane	copper	19.50
+5263353448	Tierney	Winterflood	1995-03-13	Female	twinterflood5h@pagesperso-orange.fr	5413 Blackbird Junction	copper	26.50
+5186618963	Ignacius	Fairbourn	1993-12-14	Male	ifairbourn6c@ebay.co.uk	69 Almo Street	copper	64.30
+2158126871	Jessamyn	Winterburn	1994-01-17	Female	jwinterburn9m@ucsd.edu	0872 Chive Plaza	copper	2.10
+4075065270	Moses	Rubega	1993-09-02	Male	mrubega8g@w3.org	80664 Morrow Circle	copper	75.00
+1887430967	Vaclav	MacGiolla	1993-07-10	Male	vmacgiolla9x@google.com.hk	9389 Drewry Junction	copper	10.55
+2822931142	Cherice	Liggens	1997-01-09	Female	cliggens78@360.cn	577 Pepper Wood Center	copper	8.05
+7667556867	Lezley	Condit	1995-09-13	Male	lcondit6n@w3.org	7 Karstens Avenue	copper	88.45
+3388364819	Gilberto	Lamar	1998-05-11	Male	glamarcx@usa.gov	8 Marcy Court	copper	13.20
+6904199618	Rodina	Pes	2002-07-02	Female	rpes94@examiner.com	6320 Evergreen Crossing	copper	89.70
+1464516814	Albertina	Archibold	2002-12-30	Female	aarchiboldbi@amazon.de	61 Kropf Trail	copper	89.10
+8413548020	Enrico	Trillo	2000-04-22	Male	etrillo76@1und1.de	092 Eastlawn Lane	copper	1.30
+6189080154	Baudoin	Roman	1992-09-28	Male	bromanat@blogs.com	968 Petterle Center	copper	68.65
+1394349943	Rozanna	Furmagier	1993-09-06	Male	rfurmagierdd@infoseek.co.jp	73183 Waubesa Center	copper	80.50
+9375036245	Floris	Kermath	1992-12-13	Female	fkermath70@house.gov	249 Forster Road	copper	36.20
+1493581454	Forrest	Fritchly	2002-08-24	Male	ffritchly6s@scribd.com	076 Prairieview Lane	copper	9.30
+5382871177	Idelle	Gouthier	2001-02-05	Female	igouthier6b@dedecms.com	1534 Cascade Plaza	copper	18.00
+3573392075	Theodor	Duffan	2002-10-04	Male	tduffan3v@usa.gov	8440 Loftsgordon Trail	copper	16.00
+6815535565	Hendrika	Challener	1996-05-12	Female	hchallenerdc@addthis.com	8554 Stoughton Parkway	copper	34.60
+5214606967	Huntington	Skillern	1997-02-14	Male	hskillern3p@howstuffworks.com	10 Sutherland Park	copper	6.90
+5252742420	Eleanore	Suttill	1996-07-21	Female	esuttillb1@indiegogo.com	2 Summer Ridge Trail	copper	1.90
+9618760303	Joeann	Dunabie	2001-04-25	Female	jdunabie9@nasa.gov	4379 Almo Way	copper	21.60
+4794963320	Grove	Kearford	1997-11-18	Male	gkearford88@unicef.org	21 Londonderry Parkway	silver	129.85
+1657077216	Katie	Tebbit	1998-04-11	Female	ktebbitcn@twitpic.com	3244 Golden Leaf Pass	copper	10.55
+3544427203	Brook	Calow	1999-01-20	Male	bcalowck@hao123.com	84 Melvin Plaza	copper	84.75
+1057868148	Winne	Cammoile	2004-09-02	Female	wcammoile4y@businessweek.com	7287 Milwaukee Street	copper	13.10
+9613158966	Isahella	Fost	1995-10-22	Female	ifost2@reference.com	8 Vidon Pass	copper	29.85
+3688576682	Orel	Brennand	2001-10-16	Male	obrennand3@walmart.com	85976 Orin Avenue	copper	50.65
+2332763964	Erny	Bloys	1992-01-31	Male	ebloysm@slashdot.org	9 Warrior Pass	copper	19.75
+7385498435	Darlene	Aspy	2002-05-05	Male	daspy7q@ftc.gov	6580 Saint Paul Circle	copper	9.00
+2474015346	Dillon	Clemmensen	2004-06-02	Male	dclemmensen90@dropbox.com	40 Rutledge Park	copper	33.75
+6277523758	Jeanna	Crake	2002-11-24	Female	jcrake4c@ebay.com	6267 Heath Way	copper	12.25
+6162688291	Ame	Shelford	1996-02-13	Female	ashelford2r@alibaba.com	3736 Maywood Trail	copper	23.20
+8998276676	Tallie	Kilty	1997-10-15	Male	tkilty5m@timesonline.co.uk	89851 Briar Crest Street	copper	92.25
+5081075071	Wynny	Kaveney	1996-08-10	Female	wkaveney6f@hexun.com	399 Iowa Center	copper	70.65
+1125733283	Allegra	Mattsson	2000-09-12	Female	amattsson33@gmpg.org	242 Myrtle Pass	copper	40.70
+6359382988	Leonerd	Tatersale	2001-05-09	Male	ltatersaleao@oaic.gov.au	6834 Norway Maple Parkway	copper	40.90
+2652256780	Tailor	Swinerd	2003-09-08	Male	tswinerd6t@soup.io	89865 Melvin Crossing	copper	49.40
+8486971960	Aurlie	Coldtart	1995-06-10	Female	acoldtart3g@samsung.com	6054 Lyons Parkway	copper	56.70
+6505390225	Erwin	Torr	1992-04-27	Male	etorrc6@baidu.com	9899 Bultman Crossing	copper	76.75
+3944856935	Leann	Rubes	2003-08-23	Female	lrubes62@sphinn.com	818 Truax Hill	silver	104.05
+1018534284	Waylan	Kesteven	2001-05-05	Male	wkestevenf@apple.com	1174 Dottie Pass	copper	43.00
+8432710211	Darill	McGrill	2002-06-13	Male	dmcgrilldt@networkadvertising.org	5296 Monica Avenue	copper	18.00
+3519334420	Riccardo	Yggo	1997-07-29	Male	ryggo73@sakura.ne.jp	506 Meadow Vale Hill	copper	24.10
+5781961222	Ginnifer	Dunster	1999-05-06	Female	gdunsterbq@ucsd.edu	25 2nd Place	copper	41.55
+6744768161	Jake	Trobridge	2001-07-26	Male	jtrobridge97@symantec.com	7588 Mayfield Pass	silver	109.96
+6725740766	Emmalynne	Arthan	1996-08-06	Female	earthanah@imgur.com	4330 Thackeray Junction	copper	32.65
+2131102405	Alfred	Quarmby	1999-02-05	Male	aquarmby1s@abc.net.au	395 Blaine Parkway	copper	82.15
+1627072414	Penrod	Joice	2002-05-09	Male	pjoice61@mysql.com	1 Morningstar Trail	copper	88.80
+3038995605	Rudiger	McGavin	2003-03-02	Male	rmcgavin37@cafepress.com	7 Talisman Parkway	copper	78.75
+7213191916	Sisely	Penwright	2001-07-15	Female	spenwright5x@npr.org	56 Everett Junction	copper	32.65
+9363798018	Willie	Lassey	1996-08-21	Female	wlasseybc@lulu.com	41223 Little Fleur Hill	copper	55.25
+8413573136	Wilton	Curley	1999-03-27	Male	wcurleydj@ftc.gov	3327 Onsgard Parkway	silver	131.10
+8177443411	April	Godman	1998-03-30	Female	agodmana7@noaa.gov	47 Elgar Way	copper	15.30
+5593806901	Lucius	Brash	1995-07-12	Male	lbrash1n@irs.gov	5 Fordem Place	copper	93.15
+2118331444	Aurelie	Bedinn	1996-09-02	Female	abedinn3u@squidoo.com	81 Cascade Trail	silver	113.82
+2926466939	Adara	Fairlie	2003-02-28	Female	afairlie8h@csmonitor.com	2 Mockingbird Avenue	copper	56.90
+9858188092	Vaclav	Coulbeck	1995-07-24	Male	vcoulbeck8o@shinystat.com	82 Schurz Plaza	silver	164.77
+4742172979	Sean	Greger	1996-06-13	Female	sgreger2h@yahoo.com	7111 Lakewood Terrace	copper	41.70
+5791792671	Catriona	Oxtoby	1993-02-08	Female	coxtoby4w@ox.ac.uk	7 Kennedy Trail	copper	48.10
+3128592011	Aksel	Monkeman	2002-08-13	Male	amonkeman1v@cnbc.com	85608 Mayfield Parkway	silver	169.90
+7866909213	Taite	Orrick	1992-07-02	Male	torrick1r@earthlink.net	9061 Weeping Birch Street	copper	74.70
+5693760615	Augusta	Bartozzi	1993-09-07	Female	abartozzid2@sbwire.com	3 Rockefeller Lane	copper	30.20
+2094798237	Dniren	Lamborn	1994-08-02	Female	dlamborn7r@yolasite.com	04443 Merry Pass	copper	45.45
+6091943217	Konstanze	Cadding	2004-01-02	Female	kcaddingu@wikispaces.com	3665 Vernon Place	silver	135.99
+3032656763	Nichole	Ceschelli	1993-01-21	Male	nceschelli9y@state.tx.us	7384 Vahlen Alley	copper	51.95
+3589049646	Otho	Adlington	1993-06-27	Male	oadlington50@github.com	6 Continental Center	silver	287.94
+3444452650	Dani	Jobke	1992-06-09	Male	djobke5o@mayoclinic.com	90 Fair Oaks Parkway	copper	57.75
+6449368866	Belva	Paggitt	2000-06-26	Male	bpaggitt3t@reddit.com	36727 Knutson Crossing	copper	8.55
+8915262233	Dulcea	Dancey	1996-09-27	Female	ddanceybj@tumblr.com	508 American Ash Park	copper	14.00
+5265693971	Britta	Dametti	1998-07-23	Female	bdamettiaq@mozilla.com	7873 Old Shore Place	silver	173.56
+3139566048	Gasparo	Bowdon	1993-08-04	Male	gbowdonb2@marketwatch.com	4 Graceland Court	copper	22.00
+1337649658	Elenore	Guthrum	1995-04-04	Female	eguthrum4v@si.edu	27708 Sunfield Place	copper	32.20
+7953265566	Lorri	Lyne	2003-08-16	Female	llyneax@cpanel.net	956 Waubesa Plaza	copper	25.00
+8827198152	Vin	Fain	1993-12-27	Female	vfain4@w3.org	1 2nd Circle	copper	37.60
+8528883041	Lexy	Lydall	1998-11-16	Female	llydall57@shareasale.com	3 Barby Center	copper	97.50
+5654183640	Kirk	Ricker	2001-12-28	Male	kricker3h@adobe.com	09 Maywood Road	silver	111.90
+8811279356	Bobby	Cardero	2002-01-15	Male	bcardero39@dyndns.org	84266 Green Ridge Parkway	silver	136.74
+2649465235	Katerine	Girton	2000-07-03	Female	kgirton2i@wordpress.org	14 Doe Crossing Terrace	copper	6.05
+3988614577	Bendix	Inggall	1992-10-29	Male	binggall4r@cloudflare.com	85426 Shelley Road	copper	17.45
+3354157582	Elissa	Leupold	1997-01-15	Female	eleupold27@joomla.org	1 Emmet Hill	copper	45.25
+4222474230	Karola	Cathrall	1994-03-26	Female	kcathrallbk@slideshare.net	109 Starling Lane	copper	51.30
+7914015147	Minnie	Ogilvie	2000-07-16	Female	mogilvie16@dailymotion.com	3479 Susan Avenue	copper	59.40
+7604782051	Artie	Povey	2000-11-24	Male	apovey46@hud.gov	3 Ryan Pass	copper	30.70
+8114054153	Emilee	Brokenshire	1997-06-17	Female	ebrokenshire8v@hatena.ne.jp	68 Loeprich Point	copper	73.70
+2317795570	Christie	Shawyer	1993-01-17	Male	cshawyer65@bigcartel.com	16238 Orin Circle	copper	28.60
+9376801062	Yuri	Rushmer	1996-10-10	Male	yrushmer86@imageshack.us	8349 6th Court	copper	20.50
+5705750673	Jacob	Pionter	2002-05-09	Male	jpionter9l@aol.com	02203 Arkansas Plaza	copper	88.75
+2758381991	Dina	Leve	1992-12-20	Female	dleve6@google.com	1 Butternut Park	copper	37.00
+7237733095	Perkin	Badgers	1993-09-16	Male	pbadgers1x@com.com	62 Esker Circle	copper	76.55
+5054655840	Vanny	Schofield	1997-05-01	Female	vschofieldd@state.tx.us	3 Rockefeller Center	copper	40.35
+3422711791	Arley	Achrameev	2002-07-15	Male	aachrameev8d@devhub.com	86 7th Drive	copper	81.50
+2927881396	Joanie	Caisley	1992-08-23	Female	jcaisley4z@home.pl	57029 Melby Lane	silver	101.05
+4689299191	Richmond	Premble	1996-01-23	Male	rpremble8r@nydailynews.com	4 Messerschmidt Way	copper	69.25
+4495231363	Aline	Sacco	1992-07-18	Male	asacco82@hud.gov	2188 Knutson Junction	silver	132.49
+3933053785	Clemmie	Peagrim	1996-05-04	Female	cpeagrimdk@netvibes.com	6017 John Wall Pass	copper	17.30
+2662627628	Heloise	Fabri	1997-03-29	Female	hfabri34@fc2.com	05894 Northview Circle	copper	56.10
+1008016821	Heindrick	McPhilip	1992-06-26	Female	hmcphilip1c@va.gov	8854 Fremont Junction	copper	70.40
+8806294351	Alvin	Ferrara	2004-03-24	Male	aferrarabh@storify.com	270 Declaration Parkway	copper	20.15
+2249314064	Carine	Dumingos	1999-01-07	Female	cdumingos6q@si.edu	5 Leroy Drive	copper	86.60
+6451719694	Stafani	McMillan	1992-08-23	Female	smcmillan5s@jimdo.com	8 Stephen Way	copper	13.35
+8547360832	Tobe	Fishly	1992-05-29	Male	tfishly4s@mlb.com	752 Canary Court	copper	64.90
+9482337258	Claresta	Parkes	1999-05-28	Female	cparkes9a@miitbeian.gov.cn	24 Clove Terrace	copper	69.65
+8836178784	Courtnay	Aylesbury	1993-01-20	Female	caylesbury12@sfgate.com	26676 Logan Street	silver	181.22
+3131868447	Aime	Colbrun	1997-05-14	Female	acolbruna6@bbc.co.uk	609 Corscot Circle	copper	44.55
+9054963074	Madel	Aggas	1998-10-15	Female	maggasc9@jugem.jp	09 Stephen Alley	copper	38.70
+9496370449	Ruth	Franzetti	1997-05-31	Female	rfranzetti4g@livejournal.com	4222 Rigney Drive	copper	93.50
+4321566337	Zaccaria	Attewell	2000-01-27	Male	zattewell60@wufoo.com	8 Village Green Plaza	copper	46.85
+8479573703	Viviyan	Tezure	1999-04-29	Female	vtezuredu@paginegialle.it	22 Bay Lane	copper	16.60
+4795491583	Seth	Barmby	2003-03-12	Male	sbarmby5b@mtv.com	0 Sullivan Point	copper	32.15
+9287014764	Alistair	Tankus	2004-02-15	Male	atankus1f@squidoo.com	6273 Westport Road	copper	91.75
+2906326931	Justina	McGinnis	1996-06-23	Female	jmcginnis2u@youku.com	9713 Messerschmidt Crossing	copper	59.40
+3713103255	Alexandros	Petti	2001-08-07	Male	apettib5@rambler.ru	0 Merchant Park	copper	56.35
+7883816295	Victoria	Willshire	1998-11-25	Female	vwillshire2p@webnode.com	0 Dennis Plaza	copper	33.50
+1114854921	Marlena	De Beauchemp	1999-10-11	Female	mdebeauchemp8x@artisteer.com	23 Park Meadow Center	silver	139.58
+8065791066	Alina	Grace	2004-07-13	Female	agrace9u@twitpic.com	2098 American Plaza	copper	22.00
+7423785525	Em	Farnworth	2004-05-23	Male	efarnworth6v@yahoo.co.jp	76 Holy Cross Street	silver	105.80
+5767097759	Horatia	Headrick	1992-02-16	Female	hheadrick9h@cam.ac.uk	71667 Maryland Way	silver	194.96
+6782485943	Melinde	Sherburn	1993-08-24	Female	msherburnk@hexun.com	39 Dwight Hill	silver	160.61
+4744313488	Dalia	Leys	2000-07-16	Female	dleys42@weibo.com	88091 Bultman Park	silver	206.63
+7027566454	Junette	Iglesias	1992-04-03	Female	jiglesias4i@xing.com	2 Victoria Pass	copper	92.60
+2884236032	Case	Baudassi	1996-06-13	Male	cbaudassi6o@paypal.com	7364 Park Meadow Street	copper	92.85
+1096992622	Serene	Heinemann	1994-03-26	Female	sheinemann3w@ftc.gov	2361 Sunfield Street	copper	11.45
+6236981313	Christin	Basford	1993-11-29	Female	cbasforddp@usatoday.com	08 Vera Plaza	copper	92.60
+8614747162	Teddy	Haversham	2003-03-25	Male	thaversham7e@reuters.com	57 Bunker Hill Trail	copper	11.90
+1152439470	Edi	Bell	1993-03-28	Female	ebell7g@qq.com	54104 Loomis Point	copper	1.00
+6262791685	Vernen	Newman	2003-12-10	Male	vnewman6l@fc2.com	133 Summerview Pass	copper	21.65
+1708133979	Jacklyn	Rous	1999-08-14	Female	jrous4k@dot.gov	6310 Johnson Alley	copper	48.00
+2944336918	Pavia	Seller	1993-08-11	Female	pseller1y@blinklist.com	00917 Hintze Road	silver	130.70
+1207740251	Cornela	Hutcheon	2001-08-28	Female	chutcheonbx@live.com	69 Starling Lane	copper	39.65
+6766304047	Quintilla	Elph	1995-03-02	Male	qelphdl@networksolutions.com	87 Derek Street	copper	44.10
+9873999229	Frances	Viles	1998-12-06	Female	fviles71@ucoz.com	61943 Golden Leaf Hill	copper	52.45
+8288825899	Vina	Streetfield	1993-01-12	Female	vstreetfieldce@sun.com	12 Dorton Avenue	copper	58.50
+4857661055	Vanya	McGennis	2003-08-27	Male	vmcgennis2c@networkadvertising.org	9 Melrose Terrace	copper	78.65
+2357638067	Dov	de Clerk	1995-12-05	Male	ddeclerkbg@usnews.com	4966 Continental Terrace	copper	46.65
+9724852258	Noellyn	Pescod	1995-12-01	Female	npescod8f@ovh.net	2 Moland Drive	silver	149.47
+3438550202	Elita	Dixson	1993-01-15	Female	edixson3a@vkontakte.ru	8420 Emmet Terrace	copper	12.50
+1742598024	Letisha	Snodden	1995-05-05	Female	lsnoddend4@wikispaces.com	4437 Rusk Court	copper	39.50
+1872711115	Georgiana	Piercey	1998-10-29	Female	gpiercey51@wordpress.org	86091 Longview Center	silver	135.65
+5354965426	Brett	Ralls	1999-05-13	Female	brallsbt@weebly.com	4 Hazelcrest Point	copper	68.50
+4598810811	Dani	Leary	1992-01-17	Male	dlearyav@psu.edu	150 Tony Pass	copper	21.05
+5418018653	Boone	Stuer	1992-07-09	Female	bstuer2d@spiegel.de	8 Shopko Parkway	copper	58.15
+4291765416	Brig	Wiltshear	2002-09-14	Male	bwiltshear9j@oakley.com	839 Express Plaza	silver	124.75
+6362800902	Birgit	Godmer	1998-12-03	Female	bgodmer2e@cdc.gov	69 Saint Paul Place	copper	25.40
+1874974422	Mellisa	Cleave	1997-05-25	Male	mcleavea1@about.com	3 Laurel Crossing	copper	65.65
+7457730093	Kissee	Deverose	2000-05-28	Male	kdeverose9s@icio.us	16 Oneill Park	copper	64.00
+6395984868	Thurston	Scatchar	2001-09-25	Male	tscatchar8t@washington.edu	21263 Hoard Crossing	copper	23.40
+3757755653	Evangelia	Wiggington	1992-01-02	Female	ewiggington77@angelfire.com	3604 Briar Crest Point	copper	23.45
+3461162672	Kliment	Dignan	1994-02-11	Male	kdignan4m@jiathis.com	1786 Prairie Rose Crossing	copper	11.55
+6776820487	Lemmie	Detoc	1999-07-24	Male	ldetocdn@goo.gl	41786 Prairie Rose Park	copper	61.45
+2315314738	Randall	Mc Kellen	1992-07-23	Female	rmckellen6g@youtube.com	907 Eliot Pass	copper	48.00
+1377110958	Lauryn	Troman	1993-09-30	Female	ltroman5y@bbc.co.uk	79910 Monica Court	copper	90.30
+3791006512	Lydia	Saban	1993-11-07	Female	lsabanbs@cnbc.com	9643 Raven Pass	copper	35.65
+5102046656	Maitilde	Semrad	1993-12-15	Female	msemrad5t@cisco.com	97368 Amoth Circle	silver	178.21
+2934062151	Morty	Poinsett	1992-04-04	Male	mpoinsettaf@ox.ac.uk	0 Talisman Street	silver	114.90
+1004704207	Haskel	Moretto	2000-05-09	Male	hmoretto2t@aboutads.info	2 Scofield Lane	silver	115.45
+6419737234	Obidiah	Mankor	1996-10-08	Male	omankor4n@princeton.edu	2 Sage Road	copper	10.50
+7212958482	Keith	Stranks	2004-09-14	Male	kstranks4u@example.com	5 Del Sol Way	copper	23.00
+2479979870	Sibylle	Fetherstone	1994-07-30	Female	sfetherstone3q@chicagotribune.com	74 Burning Wood Junction	copper	18.90
+4231456804	Laurence	Machel	1997-12-08	Male	lmachel8s@wufoo.com	56 Kim Hill	copper	34.80
+7607881060	Alisha	Lasham	1995-09-22	Female	alashamr@simplemachines.org	8089 Fieldstone Trail	silver	121.70
+7633394925	Gregor	Standring	2001-12-31	Male	gstandring81@weibo.com	00769 Del Sol Plaza	silver	179.60
+8429761511	Dorella	Gilhooly	1995-07-14	Female	dgilhooly8e@is.gd	43972 Oxford Crossing	copper	83.75
+6462426318	Keven	Barrasse	1993-07-16	Male	kbarrasseal@usda.gov	3 Saint Paul Lane	copper	78.05
+6339933789	Gabi	Leggis	2000-06-02	Female	gleggis7b@tripod.com	6 Bluejay Parkway	copper	66.15
+4407026161	Alexine	Hoofe	1997-03-18	Female	ahoofebd@nymag.com	2408 Paget Court	copper	46.35
+6556953407	Jany	Sobieski	1996-05-06	Female	jsobieski6p@cnbc.com	2 Saint Paul Pass	copper	70.45
+7441281921	Terza	Moynham	2001-12-04	Female	tmoynhamco@weather.com	28 Clemons Center	copper	90.15
+7964883304	Vale	Mathwen	1999-04-23	Male	vmathwen6m@list-manage.com	73559 Bashford Center	copper	3.60
+5079108154	Drugi	Jenik	1994-02-02	Male	djenikbr@slashdot.org	101 Kings Point	silver	111.84
+5659376619	Alphonse	Ansett	1998-05-11	Male	aansett59@parallels.com	65420 Corben Junction	copper	70.75
+5523532260	Hailee	Gavrieli	2002-08-23	Female	hgavrielic5@theguardian.com	46381 Gale Center	copper	23.60
+4062354038	Gale	Kluge	1996-03-15	Female	gkluge79@globo.com	7 Utah Junction	copper	82.15
+9556697664	Laural	Byford	1992-05-02	Female	lbyford1l@hibu.com	150 Trailsway Hill	copper	70.50
+3981227868	Kristos	MacDowal	1994-12-14	Male	kmacdowal5i@mail.ru	07849 Kingsford Drive	silver	108.20
+9135803292	Pierson	Fermer	2004-01-18	Male	pfermer8k@prweb.com	3 Dunning Pass	copper	99.35
+9973840332	Pryce	Bagshaw	1997-01-04	Male	pbagshaw1i@bizjournals.com	49 Fordem Pass	copper	16.25
+4839122164	Clari	Prandin	1994-07-05	Female	cprandinc0@360.cn	2 Victoria Way	copper	20.35
+2839202631	Brooks	Squires	1998-10-18	Male	bsquires18@typepad.com	01 Northfield Drive	copper	97.60
+2036155206	Stephan	Bulgen	2003-06-29	Male	sbulgen2w@dailymotion.com	0 Arkansas Avenue	copper	22.20
+6477841055	Shep	Pyford	1997-05-20	Female	spyford10@senate.gov	2 Norway Maple Circle	copper	94.55
+9374031259	Amalie	Blackburn	1997-05-10	Female	ablackburn1j@archive.org	77 Muir Center	copper	82.60
+3515675397	Rufe	Kundert	1995-11-01	Male	rkundert75@arizona.edu	799 Little Fleur Point	copper	64.10
+8217630158	Ransom	Lilloe	2004-11-05	Male	rlilloe7k@liveinternet.ru	3632 Green Street	copper	75.20
+3146550126	Chelsae	Skain	1993-02-10	Female	cskainq@blogtalkradio.com	7 Novick Alley	copper	87.70
+8186511310	Syman	Forty	1993-12-31	Male	sfortyau@usatoday.com	83 Blue Bill Park Center	silver	115.17
+1562459723	Easter	Ivkovic	2002-01-16	Female	eivkovicv@drupal.org	9 South Terrace	copper	24.95
+1981098965	Judon	Dillamore	1994-01-11	Male	jdillamore2z@live.com	754 Pierstorff Crossing	silver	134.08
+4552756148	Neddy	Strapp	2000-09-22	Male	nstrapp4t@gov.uk	6779 Morning Terrace	copper	36.25
+6131952248	Regina	O'Lennachain	1994-01-29	Female	rolennachain11@amazon.co.jp	76631 Pankratz Drive	silver	126.05
+2084377775	Rheta	Cleyburn	1994-09-11	Female	rcleyburn3y@bing.com	7 4th Alley	silver	100.15
+5284552315	Marylou	Ledgard	1998-04-04	Female	mledgard7o@cbslocal.com	7370 Roxbury Drive	copper	95.05
+8985632857	Janela	Balleine	1994-11-15	Female	jballeine56@businessinsider.com	58489 Veith Road	silver	157.08
+5384327020	Aviva	Akast	2001-01-27	Female	aakastg@dagondesign.com	52 Lakewood Pass	silver	242.32
+8905953823	Skipp	Belden	1998-03-19	Male	sbelden8i@g.co	37 Golf Avenue	copper	14.50
+8297882814	Henka	Spearman	1992-09-02	Female	hspearman9k@youtube.com	7924 Eggendart Court	copper	40.10
+7384197079	Irv	Gunderson	1997-08-05	Male	igunderson3x@mit.edu	09237 Grim Street	copper	60.90
+3416206009	Kennett	Sturdy	1994-01-15	Male	ksturdy7l@ucoz.com	4718 Fordem Point	silver	281.93
+1189819559	Adolpho	Crutchfield	1997-11-23	Male	acrutchfield30@paginegialle.it	00 Springview Terrace	copper	28.35
+6364975739	Randie	Clears	1997-01-09	Male	rclears55@theglobeandmail.com	7159 Independence Alley	copper	28.05
+5982363990	Johann	Malafe	2000-07-20	Male	jmalafe3r@bing.com	1372 Beilfuss Plaza	copper	44.55
+9601923380	Marika	Rubinovici	1996-09-09	Female	mrubinovici6i@ebay.com	29 Magdeline Plaza	copper	50.90
+7805588859	Dulciana	Rigden	1997-02-18	Female	drigden3s@buzzfeed.com	78349 Montana Parkway	copper	55.80
+8052111341	Devina	Headford	1997-02-20	Female	dheadforda0@springer.com	71 Stoughton Circle	silver	187.81
+2191082739	Ethelbert	Llewellin	1993-04-14	Male	ellewellin31@skyrock.com	00315 Helena Terrace	copper	42.30
+7197415250	Stanley	Murphey	1996-02-19	Female	smurphey13@theglobeandmail.com	2 Crescent Oaks Trail	copper	80.70
+5276115764	Yasmin	Lepope	1996-08-23	Female	ylepoped0@jalbum.net	6665 East Trail	copper	69.60
+8851960981	Winifred	Lewknor	1992-01-19	Female	wlewknorda@quantcast.com	1 Northport Terrace	copper	77.20
+6125950796	Vinson	Winwright	2004-02-10	Male	vwinwright4j@google.co.uk	16110 Del Mar Trail	copper	56.95
+2054362899	Stefano	Gaymer	2002-05-25	Male	sgaymer4e@slideshare.net	24 Sundown Parkway	silver	118.55
+5289935515	Wendell	Parlot	1993-09-04	Male	wparlot15@google.fr	0229 Shelley Terrace	silver	112.69
+4955501205	Carmela	Hembry	2003-11-20	Male	chembrycr@nature.com	2958 Hoffman Hill	copper	66.25
+2507931955	Aimee	Kullmann	1998-06-23	Female	akullmannai@smugmug.com	822 Utah Center	copper	25.80
+8686617091	Nahum	Whiteman	2003-02-12	Male	nwhiteman2k@xing.com	77433 Talmadge Drive	copper	81.30
+2323578984	Jamil	Secombe	1997-10-22	Male	jsecombe5u@feedburner.com	08 Holy Cross Terrace	copper	30.60
+8307556644	Ches	Heminsley	2000-02-09	Male	cheminsley7s@nba.com	849 Coolidge Way	copper	74.25
+6506804556	Morgan	Freddi	1994-09-29	Female	mfreddidr@umn.edu	7 Bayside Crossing	copper	32.45
+7618449383	Gilberta	Meeny	2003-09-12	Female	gmeenyd8@lulu.com	366 Fairview Pass	silver	257.19
+2515263763	Griselda	Ferrillo	2000-07-27	Female	gferrillo9q@live.com	842 Bartillon Trail	copper	14.90
+4479598051	Nomi	Leyden	1997-10-13	Female	nleyden7p@huffingtonpost.com	008 North Park	copper	77.05
+4723798647	Shawn	Espinazo	1995-02-07	Male	sespinazo64@paginegialle.it	8 Orin Point	silver	166.65
+1868649398	Cloe	Wastling	2003-09-14	Female	cwastling5@wired.com	60 Quincy Street	copper	9.75
+1441956411	Phil	O'Toole	1999-11-02	Female	potooledo@techcrunch.com	006 Independence Court	copper	54.65
+2429970479	Jeremy	Ruffli	2002-12-25	Male	jruffli9p@over-blog.com	48407 Duke Lane	copper	53.00
+2804838169	Claudelle	Bockmann	2001-07-09	Female	cbockmann8j@diigo.com	56 Prentice Alley	silver	184.77
+5819172444	Elita	Eddison	1993-11-01	Female	eeddison7f@biglobe.ne.jp	09 Iowa Junction	silver	158.80
+1831517497	Ric	Hellin	1995-10-02	Male	rhellinae@huffingtonpost.com	72540 Pankratz Park	copper	15.65
+9041027472	Rebecca	Pinard	1998-11-03	Female	rpinard5j@bravesites.com	3 Mendota Court	copper	76.10
+3413654837	Brittaney	Merigeau	2001-01-08	Female	bmerigeau9e@cbslocal.com	07041 8th Hill	silver	119.90
+6143861270	Catina	Perkin	1995-08-20	Male	cperkin1w@skype.com	4 Dottie Place	copper	81.20
+8367938247	Mellie	Ambrosoli	1997-09-25	Female	mambrosolidf@stanford.edu	664 Evergreen Street	copper	38.45
+6395875268	Brittni	Vittori	1997-05-26	Female	bvittoriac@a8.net	6913 Express Plaza	silver	159.63
+8925081764	Ilario	Gietz	1992-11-07	Male	igietz14@pinterest.com	3 Huxley Drive	silver	121.06
+5931084274	Guy	Kubicek	1995-03-04	Male	gkubicek53@spotify.com	4078 Merchant Way	copper	26.60
+8448828607	Lissa	Marklow	2003-01-02	Female	lmarklowbv@ed.gov	88 Truax Circle	silver	141.95
+2666676573	Rutger	Linklet	2000-07-05	Male	rlinklet2f@yale.edu	191 Leroy Junction	silver	139.30
+8013219734	Clemmie	Ackerley	1996-10-25	Female	cackerleyb6@vimeo.com	4 Lakewood Avenue	silver	143.86
+1644965959	Isacco	Tungay	1996-11-12	Male	itungay2b@oakley.com	97130 Granby Center	silver	112.07
+2552167429	Konstance	Swett	1995-07-29	Female	kswettcc@gmpg.org	17968 Bartelt Court	silver	171.57
+4444880257	Ellwood	Mikalski	1992-01-16	Male	emikalski7u@berkeley.edu	128 Hoepker Park	copper	75.70
+3703194124	Billie	Fellgate	2004-06-05	Male	bfellgate4d@stumbleupon.com	52 Ridgeview Terrace	copper	40.75
+3812663388	Jamie	Krol	1996-12-07	Male	jkrol7z@chronoengine.com	935 Upham Way	silver	136.80
+8345251484	Goddart	Lillgard	1997-02-01	Female	glillgard5n@nationalgeographic.com	6 East Place	silver	146.06
+3153836311	Danya	Prozescky	1999-12-16	Male	dprozescky84@cloudflare.com	50943 Red Cloud Court	copper	66.15
+4968932231	Jarrid	Sciusscietto	1998-03-19	Male	jsciussciettocp@princeton.edu	9042 Ridge Oak Hill	copper	39.95
+8604462341	Bendite	Skill	2002-04-23	Female	bskilla@cam.ac.uk	6047 4th Circle	silver	109.00
+6761305965	Ignacius	Hellwing	2001-02-15	Male	ihellwing7n@devhub.com	59874 Anthes Pass	copper	23.30
+3513082543	Reinhold	Jakes	2002-03-15	Male	rjakes1z@loc.gov	1989 Riverside Alley	silver	278.60
+6824884414	Hadley	Austin	1992-05-21	Male	haustin26@epa.gov	39365 Truax Place	copper	25.75
+1367934782	Vincenty	Colthard	1999-08-31	Male	vcolthardas@uiuc.edu	77186 Kingsford Alley	copper	72.60
+2385640263	Othella	Manus	2001-10-31	Female	omanus1a@vkontakte.ru	71847 Redwing Center	copper	73.70
+7142919866	Winona	Petr	2004-06-18	Female	wpetrd7@elpais.com	524 Lakewood Crossing	copper	12.50
+9375964469	Solly	Mountlow	1997-04-22	Male	smountlow3c@mtv.com	0120 Shoshone Circle	copper	48.40
+4443406615	Helsa	Tuplin	2003-01-28	Female	htuplin2n@constantcontact.com	179 Independence Pass	copper	43.60
+1965853171	Pansy	Phant	1994-10-01	Female	pphant9n@yolasite.com	326 Bashford Junction	copper	45.95
+2462124616	Lib	Garretson	1997-11-04	Female	lgarretson6x@netlog.com	0833 Killdeer Way	copper	75.45
+1726303956	Jay	Folomin	2000-06-08	Male	jfolomin1e@cpanel.net	3126 Granby Street	silver	140.65
+9436993174	Catie	Cosyns	2002-11-03	Female	ccosyns5z@princeton.edu	1 Coleman Parkway	copper	23.75
+3671448055	Brody	Dubois	1992-10-25	Male	bduboish@npr.org	79 Bartelt Plaza	silver	144.91
+5693787432	Annmarie	Jonas	2002-06-09	Female	ajonas3i@dyndns.org	0932 Fremont Drive	silver	141.40
+8993527553	Ally	Bridewell	2002-09-28	Female	abridewellz@weather.com	1 Dorton Drive	silver	191.88
+7215100844	Cad	Kestian	1994-10-15	Male	ckestian3l@dailymotion.com	7 Grim Lane	copper	88.15
+2906553633	Olimpia	Claricoats	2004-02-01	Female	oclaricoatscs@npr.org	20 Dovetail Hill	copper	20.20
+9955929029	Jessie	McCaughey	1995-12-22	Female	jmccaugheyak@google.pl	4838 Florence Place	silver	144.98
+1676898710	Felisha	Halt	1994-04-27	Female	fhalt41@timesonline.co.uk	06794 Carberry Avenue	silver	133.46
+3096015677	Abe	Orleton	2002-02-21	Male	aorleton1m@patch.com	18270 Farmco Place	copper	91.65
+8011069416	Oralle	Le Guin	1994-04-06	Female	oleguin4x@sitemeter.com	63 Chive Center	copper	81.90
+5956940153	Ber	Shakle	2002-05-20	Female	bshakle95@shop-pro.jp	08 Pepper Wood Terrace	copper	90.75
+9454649334	Guinna	Caudelier	1994-02-26	Female	gcaudelier9b@java.com	43936 Harper Way	copper	60.75
+7791748848	Moria	Catonne	1992-05-22	Female	mcatonnedq@gizmodo.com	418 Golden Leaf Place	silver	216.17
+5302880819	Ginger	Shedd	1994-06-23	Female	gshedd24@chron.com	4 Blackbird Point	copper	43.90
+2939497487	Kenton	Knewstub	1997-08-29	Male	kknewstub96@diigo.com	7365 Scoville Hill	copper	68.70
+3174535497	Dyann	Beringer	1993-04-30	Female	dberinger6a@microsoft.com	2 5th Terrace	copper	90.40
+7484559149	Jase	Guiraud	1999-08-13	Male	jguiraudb9@google.nl	33 Columbus Circle	copper	31.25
+7523706550	Jonis	Gayler	1997-11-28	Female	jgaylerde@irs.gov	3 Marcy Circle	copper	49.00
+7709798505	Raddy	Castletine	2000-06-01	Male	rcastletine8a@sogou.com	12210 Farmco Court	silver	211.47
+6994662242	Skelly	McCerery	1996-04-10	Male	smccerery7j@icq.com	7583 Ramsey Trail	silver	115.17
+3839258013	Inger	O'Skehan	1996-10-29	Male	ioskehan9t@elpais.com	52679 Mockingbird Trail	copper	65.90
+4465566493	Fancie	Olding	1993-06-23	Female	folding6r@yellowbook.com	34777 Washington Alley	silver	238.27
+5285004908	Gigi	Moffett	2002-03-06	Female	gmoffett5g@twitpic.com	734 Moland Plaza	copper	79.95
+5239566241	Kassey	Heathwood	1993-12-05	Female	kheathwood8p@umich.edu	96 Superior Hill	copper	24.20
+6221477854	Al	Dallewater	1992-04-23	Male	adallewatercy@miitbeian.gov.cn	89307 Esker Place	silver	163.43
+9869689593	Artair	Gowrie	2003-02-09	Male	agowrie5e@4shared.com	2 Holmberg Place	silver	113.00
+3438725823	Gustavo	Meins	1994-02-09	Male	gmeins63@a8.net	90108 Loftsgordon Point	copper	93.60
+8987011194	Stephani	Ditts	1995-06-02	Female	sditts20@xrea.com	9 Surrey Way	copper	34.60
+6639332692	Verna	Keating	1999-05-25	Female	vkeatingbu@google.es	66 Warbler Circle	copper	51.60
+1563734600	Marian	Durtnal	1999-12-22	Female	mdurtnalj@ihg.com	7 Rockefeller Trail	copper	10.10
+7463896429	Nona	Eunson	1998-06-11	Female	neunson6e@drupal.org	86 Sherman Road	silver	141.50
+3382240233	Idalina	Gregorace	1996-01-03	Female	igregorace44@zimbio.com	8293 Badeau Park	silver	155.09
+6574464638	Emelita	Libbis	1999-04-30	Female	elibbis3d@jalbum.net	519 Claremont Terrace	copper	15.70
+9684486997	Sebastiano	Guillot	2004-04-19	Male	sguillot52@desdev.cn	87094 Weeping Birch Plaza	copper	43.55
+9357280411	Gregoire	Gonnard	1992-06-07	Male	ggonnardam@ask.com	7682 Waywood Crossing	copper	19.00
+7918532914	Dall	Champion	2003-04-14	Male	dchampion8y@woothemes.com	7973 Sommers Pass	copper	18.00
+9542919654	Valry	Feild	2003-10-17	Female	vfeild9v@tmall.com	53174 Westerfield Way	copper	54.50
+9318219757	Maiga	Adams	2003-01-25	Female	madams8m@indiatimes.com	6175 Dottie Way	silver	127.82
+1811053292	Tabb	Grimditch	2000-11-14	Male	tgrimditch5p@newsvine.com	7985 Carberry Way	copper	76.45
+6775244301	Connie	Selkirk	1994-03-24	Male	cselkirkag@google.pl	66111 Blackbird Trail	copper	49.30
+6224570454	Giffer	Haggath	1997-07-11	Male	ghaggathd5@flavors.me	7859 Melody Crossing	silver	110.52
+3734600673	Davine	Gomby	2000-01-21	Female	dgombycl@spotify.com	01391 Sutherland Street	silver	151.30
+5813273208	Ebenezer	Rye	1996-08-23	Male	erye7x@gov.uk	38135 Hansons Avenue	silver	238.57
+4863126152	Frederich	Craighill	1992-06-01	Male	fcraighill1b@elpais.com	25955 Garrison Circle	copper	40.35
+7926827611	Udell	Locke	1994-12-06	Male	ulocke47@google.com.au	82227 Nelson Hill	silver	125.50
+7354886998	Effie	Quipp	1995-02-27	Female	equipp7m@umn.edu	7575 Norway Maple Way	copper	90.25
+3769318948	Tulley	Brightling	2001-12-02	Male	tbrightlingcu@prnewswire.com	502 Erie Crossing	copper	97.15
+1508262332	Donnajean	Salvidge	2003-06-29	Female	dsalvidge25@adobe.com	69700 Oriole Place	silver	162.10
+9106119231	Hedvig	Kiehne	2000-11-05	Female	hkiehnec3@usa.gov	33099 Bowman Junction	copper	86.55
+3403594683	Nikolos	Gatlin	1997-12-05	Male	ngatlin83@vinaora.com	8 Riverside Court	silver	152.99
+2879344629	Luther	Dorking	1996-02-05	Male	ldorkingx@state.tx.us	01 Mendota Parkway	copper	19.50
+6755316201	Lara	Amphlett	1993-08-30	Female	lamphlettc7@ow.ly	46413 Pine View Point	copper	84.20
+6275298847	Murielle	Haycox	1992-06-13	Female	mhaycoxcd@opera.com	2959 Chive Trail	copper	16.40
+8147989386	Arlie	Dand	1994-12-04	Female	adanday@youtube.com	93431 Oakridge Terrace	silver	165.26
+7226804429	Marji	Kersley	2004-02-09	Female	mkersleyw@joomla.org	818 Butterfield Circle	silver	100.15
+9806804770	Janeczka	Fateley	2003-06-15	Female	jfateley8u@netvibes.com	1 Kensington Park	silver	114.37
+1903193590	Benn	Grishagin	1995-07-08	Male	bgrishagin2q@wiley.com	2083 Pond Street	silver	155.00
+6252756868	Rich	Vampouille	1994-10-31	Male	rvampouilleby@symantec.com	88 Shoshone Parkway	silver	124.18
+7442579546	Karel	Penddreth	1997-10-03	Female	kpenddreth69@nydailynews.com	5778 Manitowish Way	copper	10.50
+7251838469	Emelina	Slyde	1998-09-30	Female	eslydep@paypal.com	1303 Summer Ridge Road	silver	142.81
+7872080876	Derick	Shorie	2001-05-16	Female	dshorie2y@chron.com	9106 East Court	silver	116.30
+6092114493	Redd	Camacke	1996-05-11	Male	rcamacke74@jigsy.com	79850 Sherman Way	copper	40.40

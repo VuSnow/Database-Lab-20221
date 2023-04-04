@@ -1,0 +1,229 @@
+.eqv SCREEN 	0x10010000	
+.eqv YELLOW 	0x00FFFF00
+.eqv BLACK 	0x00000000
+.eqv KEY_A 	0x00000061
+.eqv KEY_S	0x00000073
+.eqv KEY_D	0x00000064
+.eqv KEY_W	0x00000077
+.eqv KEY_Z  	0x0000007A
+.eqv KEY_X  	0x00000078
+.eqv TIME 	50
+.eqv KEY_CODE	0xFFFF0004
+.eqv KEY_READY	0xFFFF0000
+
+.data	
+	dataCircle: 	.space 512  
+.text
+	li 	$t6, TIME
+ 	li 	$s0, 256			# Xo = 256		Toa do X cua tam duong tron
+ 	li 	$s1, 256			# Yo = 256		Toa do Y cua tam duong tron
+	li 	$s2, 36				# R = 36 		Ban kinh cua duong tron
+ 	li 	$s3, 512			# Do rong man hinh
+ 	li 	$s4, 512			# Chieu cao man hinh
+ 	li 	$s5, YELLOW			# Chon duong tron mau vang
+ 	li 	$s7, 0				# deltaX = 0
+ 	li 	$t8, 0				# deltaY = 0  
+ 	li 	$t7,-5
+ 	li 	$t9, 5
+ 
+
+
+
+#Tao hinh tron
+#Luu toa do cac diem hinh tron vao mang
+circleInit: 
+	li 	    $t0, 0				# i = 0
+	la 	    $t5, dataCircle			# tro vao dia chi cua noi luu du lieu duong tron
+DrawLoop:	
+ 	slt 	$v0, $t0, $s2			# for DrawLoop i -> R neu i < R v0 = 1
+	beqz 	$v0, end_circleInit		# if v0 = 0 end
+	mul 	$s6, $s2, $s2			# R^2
+	mul 	$t3, $t0, $t0			# i^2
+	sub 	$t3, $s6, $t3			# $t3 = R^2 - i^2   
+	addu 	$v0, $0 , $t3		
+	jal 	sqrt
+	sw 	    $a0, 0($t5)			# Luu a0 = sqrt(R^2 - i^2) vao mang du lieu
+	addi 	$t0, $t0, 1			# i++
+	add 	$t5, $t5, 4			# Di den vi tri tiep theo luu du lieu cua dataCircle
+	j 	    DrawLoop
+end_circleInit:
+
+# Doc du lieu tu ban phim
+gameDrawLoop:
+readKeyboard:
+ 	lw 	    $k1, KEY_READY 			# kiem tra da nhap ki tu nao chua neu da nhap vao thi k1 = 0
+ 	beqz 	$k1, positionCheck		# $k1 = 0 den nhan
+ 	lw 	    $k0, KEY_CODE
+ 	beq 	$k0, KEY_A, case_a
+ 	beq 	$k0, KEY_S, case_s
+ 	beq 	$k0, KEY_D, case_d
+ 	beq 	$k0, KEY_W, case_w
+ 	beq 	$k0, KEY_Z, case_z
+ 	beq 	$k0, KEY_X, case_x
+ 	j 	positionCheck
+ 	nop
+case_a:
+ 	jal 	moveLeft
+ 	j 	positionCheck
+case_s:
+ 	jal 	moveDown
+ 	j 	positionCheck
+case_d:
+ 	jal 	moveRight
+ 	j 	positionCheck
+case_w:
+ 	jal 	moveUp
+ 	j 	positionCheck
+case_z:
+	jal 	speedUp
+case_x:
+	jal 	slowDown
+ 	
+# kiem tra ky tu da duoc nhap vao hay chua
+positionCheck:	
+#kiem tra duong tron cham cac mep canh	
+checkBorderRight:
+ 	add 	$v0, $s0, $s2			# Xo + R
+ 	add 	$v0, $v0,$s7			#v0 = Xo + R + deltaX
+ 	sle 	$v1,$v0,$s3			#v0 < s3 ? v1 = 1 : v1 =0 ,   v0 > SCREEN_WIDTH Then moveLeft
+ 	bnez 	$v1, checkBorderLeft			#v1 != 0 run label
+ 	jal 	moveLeft	
+ 	nop
+checkBorderLeft:
+ 	sub 	$v0, $s0, $s2	
+ 	add 	$v0, $v0, $s7			#v0 = Xo - R + deltaX
+ 	sle 	$v1,$0,$v0			#0 < v0 ? v1 = 1 : v1 =0 ,    v0 < 0 then moveRight
+ 	bnez 	$v1, checkBorderTop			#v1 != 0 run label
+ 	jal 	moveRight	
+ 	nop
+checkBorderTop:
+ 	sub 	$v0, $s1, $s2	
+ 	add 	$v0, $v0, $t8			# v0 =  Yo - R + deltaY
+ 	sle 	$v1,$0,$v0			# 0 < v0 ? v1 = 1 : v1 =0,    v0 < 0 then moveDown
+ 	bnez 	$v1, checkBorderBottom
+ 	jal 	moveDown	
+ 	nop
+checkBorderBottom:
+ 	add 	$v0, $s1, $s2	
+ 	add 	$v0, $v0, $t8			# v0 = Yo + R + delta_Y
+ 	sle 	$v1,$v0,$s4			#v0 < s4 ? v1 = 1 : v1 =0,    v0 > SCREEN_HEIGHT then moveUp
+ 	bnez 	$v1, draw			#v1 != 0 run label
+ 	jal 	moveUp				
+ 	nop
+ 	
+#ve duong tron
+	 					 				
+draw: 	
+# Ve duong tron trung mau nen
+ 	li 	$s5, BLACK
+ 	jal 	drawCircle
+ 	add 	$s0, $s0, $s7			# Cap nhat toa do moi cua duong tron 
+ 	add 	$s1, $s1, $t8		
+ 
+# Ve duong tron moi
+ 	li 	$s5, YELLOW
+ 	jal 	drawCircle
+ 	add 	$a0, $t6,$zero
+ 	li 	$v0, 32 
+ 	syscall					# Dung chuong trinh 1 khoang
+ 	j 	gameDrawLoop
+ 	
+
+#--------------------------------------------------------------------------------------------
+# Ham ve duong tron
+# Su dung du lieu o mang dataCircle tao boi Circle_Init	
+
+drawCircle:
+	add 	$sp, $sp, -4 			# cap phat bo nho cho stack
+	sw 	$ra, 0($sp) 			# luu gia tri tra ve vao dinh stack
+ 	li 	$t0, 0				# khoi tao bien i = $t0 = 1
+DrawLoop_drawCircle:	
+  	slt 	$v0, $t0, $s2   		# for DrawLoop i -> R , i < r ? v0 = 1 : v0 = 0
+ 	beqz 	$v0, end_drawCircle		# v0 = 0 end
+	sll 	$t5, $t0, 2			# lay index cua mang 4*i
+	lw 	$t3, dataCircle($t5) 		# Load j= t3 = dataCircle(4*i)	 
+ 	move 	$a0, $t0			# i = $a0 = $t0(index cua mang)
+	move 	$a1, $t3			# j = $a1
+	jal 	drawCirclePoint			# Lay toa do de ve (Xo + i, Yo + j), (Xo + j, Yo + i)
+	sub 	$a1, $zero, $t3
+	jal 	drawCirclePoint			# (Xo + i, Yo - j), (Xo + j, Yo - i)
+	sub 	$a0, $zero, $t0
+	jal 	drawCirclePoint			# (Xo - i, Yo - j), (Xo - j, Yo - i)
+	add 	$a1, $zero, $t3
+	jal 	drawCirclePoint			# (Xo - i, Yo + j), (Xo - j, Yo + i)
+	
+	addi 	$t0, $t0, 1			# i = i+1
+	j 	DrawLoop_drawCircle
+end_drawCircle:
+ 	lw 	$ra, 0($sp)
+ 	add 	$sp, $sp, 0	
+ 	jr 	$ra
+ 
+#--------------------------------------------------------------------------------------------
+#	Ham ve diem tren duong tron
+# 	Ve dong thoi 2 diem (X0 + i, Y0 +j ) va (Xo + j, Xo + i)
+#	i = $a0, j = $a1
+#	Xi =$t1, Yi = $t4
+
+drawCirclePoint:
+ 	
+ 	add 	$t1, $s0, $a0 			# Xi = X0 + i
+	add 	$t4, $s1, $a1			# Yi = Y0 + j
+	mul 	$t2, $t4, $s3			# Yi * SCREEN_WIDTH
+	add 	$t1, $t1, $t2			# Yi * SCREEN_WIDTH + Xi (Toa do 1 chieu cua diem anh)
+	sll 	$t1, $t1, 2			# Dia chi tuong doi cua diem anh
+	sw 	$s5, SCREEN($t1)		# Ve diem anh
+	add 	$t1, $s0, $a1 			# Xi = Xo + j
+	add 	$t4, $s1, $a0			# Yi = Y0 + i
+	mul 	$t2, $t4, $s3			# Yi * SCREEN_WIDTH
+	add 	$t1, $t1, $t2			# Yi * SCREEN_WIDTH + Xi (Toa do 1 chieu cua diem anh)
+	sll 	$t1, $t1, 2			# Dia chi tuong doi cua diem anh
+	sw 	$s5, SCREEN($t1)		# Ve diem anh
+	
+	jr 	$ra
+	
+# Di chuyen
+
+moveLeft:
+	add 	$s7, $zero,$t7 			# dich sang trai $t7 don vi
+ 	li 	$t8, 0
+	jr 	$ra 	
+moveRight:
+	add 	$s7, $zero,$t9 			# dich sang phai $t9 don vi
+ 	li 	$t8, 0
+	jr 	$ra 	
+moveUp:
+	li 	$s7, 0
+ 	add 	$t8, $zero,$t7 			# dich len tren $t7 don vi
+	jr 	$ra 	
+moveDown:
+	li 	$s7, 0
+ 	add 	$t8, $t9,$zero 			# dich xuong $t9 don vi
+	jr 	$ra 
+speedUp:
+
+	addi 	$t9,$t9,20 			#tang toc do dich chuyen len 20 don vi
+	addi 	$t7,$t7,-20 			#tang toc do dich chuyen len 20 don vi
+	jr 	$ra
+
+slowDown:
+
+	addi 	$t9,$t9,-1 			#giam toc do dich chuyen xuoong 1 don vi
+	addi 	$t7,$t7,+1 			#giam toc do dich chuyen xuoong 1 don vi
+	slt 	$a2,$zero,$t9 			#giam xuong toi thieu 4 don vi
+	beqz 	$a2,reset
+back:
+	jr 	$ra 
+	
+# Tinh can bac 2
+sqrt: 
+	mtc1 	$v0, $f0 			# f0 = v0
+	cvt.s.w $f0, $f0	 
+	sqrt.s 	$f0, $f0
+	cvt.w.s $f0, $f0 
+	mfc1 	$a0, $f0 			# dua lai tu $f0 vao $a0
+	jr 	$ra
+reset:
+	li 	$t9,4
+	li 	$t7,-4
+	j 	back
